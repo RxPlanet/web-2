@@ -6,7 +6,6 @@
 <body>
 	<div class = "container">
 		<div class = "header">
-		<img src = "logo.png" class = "logo">
 			<div class = "navbar">
 				<a href= "#">HOME</a>
 				<a href= "#">SERVICES</a>
