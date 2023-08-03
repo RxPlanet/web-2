@@ -7,26 +7,20 @@
 	width : 100%;
 	height: 100vh;
 	background-image: url(500.jpg);
-	background-size: 1200px 0 1000;
+	background-size: cover;
 	background-repeat: no-repeat;
-	padding-left:5%;
-	padding-right:8%;
+	padding-left:2%;
+	padding-right:2%;
 }
 
 .header{
-	height:10%;
+	height:25%;
 	display :flex;
 	align-items: center;
 	overflow:hidden;
 	position:relative;
 }
 
-.logo{
-	margin: 5px 5px;
-	width:100px;
-	height: 100px;
-	coursor:pointer;
-}
 
 .navbar{
 	text-align:center;
@@ -98,7 +92,7 @@
 
 .content{
 	text-align: center;
-	margin-top:15%;
+	margin-top:10%;
 }
 
 
