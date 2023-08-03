@@ -1,0 +1,126 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.container{
+	width : 100%;
+	height: 100vh;
+	background-image: url(500.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-left:5%;
+	padding-right:8%;
+}
+
+.header{
+	height:10%;
+	display :flex;
+	align-items: center;
+	overflow:hidden;
+	position:relative;
+}
+
+.logo{
+	margin: 5px 5px;
+	width:100px;
+	height: 100px;
+	coursor:pointer;
+}
+
+.navbar{
+	text-align:center;
+	Flex: 1;
+	
+}
+
+.navbar a{
+	padding :6px 40px;
+	text-decoration: none;
+	color:white;
+	margin-left:6px;
+	font-size:20px;
+	font-weight:bold;
+}
+
+.navbar a:hover{
+	color: red;
+	border: 2px solid red;
+
+
+}
+
+.btn{
+	cursor:pointer;
+	color:#cc0052;
+	font-size:18px;
+	letter-spacing:2px;
+	padding: 10px 20px;
+	border: 2px solid #003333;
+	background:transparent;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	margin: 40px 8px;
+}
+
+
+
+.btne{
+	cursor: pointer;
+	color: #cc0052;
+	font-size: 18px;
+	letter-spacing: 2px;
+	padding: 10px 20px;
+	border: 2px solid #003333;
+	background: transparent;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	margin: 40px 8px;
+
+}
+
+.btne:hover{
+	color: #000;
+	background-color: red;
+}
+.btn:hover{
+	color: #000;
+	background-color: green;
+}
+
+
+.btn a: visited{
+	background-color: #fff;
+	color: #000;
+}
+
+.content{
+	text-align: center;
+	margin-top:15%;
+}
+
+
+
+.content h1{
+	font-size: 80px;
+	color: white;
+	
+}
+
+.copyright{
+	color: blue;
+	margin-top: 25%;
+	text-align: center;
+}
+
+
+.copyright a{
+	color: white;
+	text-align: center;
+	padding: 10px 10px;
+	border: 2px solid yellow;
+}
+
+
