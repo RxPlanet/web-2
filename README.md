@@ -17,7 +17,7 @@
 		</div>
 
 		<div class = "content">
-			<h1>Wellcom To Love Grue</h1>
+			<h1>Wellcome To Love Grue</h1>
 			<button class = "btn"><a href = "#">SUBSCRIBE</a></button>
 			<button class = "btne">EXPLORE</button>
 		</div>
