@@ -11,7 +11,7 @@
 				<a href= "#">SERVICES</a>
 				<a href= "#">PORTFOLIO</a>
 				<a href= "#">CONTRAC</a>
-			<button class ="btn"><a href="https://github.com/RxPlanet/web/blob/main/Love%20Grue2.html">LOGIN</a></button>
+			<button class ="btn"><a href="https://rxplanet.github.io/web/">LOGIN</a></button>
 			</div>
 
 		</div>
